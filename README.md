@@ -17,8 +17,6 @@ Open the app in one of following **supported browser**
 
 <br>
 
-![RYdeo](www/images/mtdemo.gif)
-
 ## Features
 
 - Is 100% Free and Open Source
