@@ -1,4 +1,4 @@
-# mirotalk
+# RYdeo
 
 🚀 `A free WebRTC browser-based video call, chat and screen sharing` 🚀
 
@@ -13,19 +13,19 @@
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?)](https://github.com/prettier/prettier)
 [![Gitter](https://badges.gitter.im/mirotalk/community.svg)](https://gitter.im/mirotalk/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
-Powered by `WebRTC` using google Stun and [numb](http://numb.viagenie.ca/) Turn. `mirotalk` provides video quality and latency not available with traditional technology.
+Powered by `WebRTC` using google Stun and [numb](http://numb.viagenie.ca/) Turn. `RYdeo` provides video quality and latency not available with traditional technology.
 
 Open the app in one of following **supported browser**
 
 [//]: #![webrtc](www/images/webrtc.png)
 
-[![Foo](www/images/browsers.png)](https://mirotalk.herokuapp.com/)
+[![Foo](www/images/browsers.png)](https://rydeo.ropeyou.com/)
 
-## https://mirotalk.herokuapp.com/
+## https://rydeo.ropeyou.com/
 
 <br>
 
-![mirotalk](www/images/mtdemo.gif)
+![RYdeo](www/images/mtdemo.gif)
 
 ## Features
 
@@ -46,14 +46,14 @@ Open the app in one of following **supported browser**
 
 ## Demo
 
-- `Open` https://mirotalk.herokuapp.com/newcall
+- `Open` https://rydeo.ropeyou.com/newcall
 - `Pick` your personal Room name and `Join To Room`
 - `Allow` to use the camera and microphone
 - `Share` the Room URL and `Wait` someone to join for video conference
 
 ## Room name
 
-- You can also `join` dirrectly to your room name by going to https://mirotalk.herokuapp.com/join/your-room-name-goes-here
+- You can also `join` dirrectly to your room name by going to https://rydeo.ropeyou.com/join/your-room-name-goes-here
 
 ## Quick start
 
@@ -61,8 +61,8 @@ Open the app in one of following **supported browser**
 - Clone this repo
 
 ```bash
-git clone git@github.com:miroslavpejic85/mirotalk.git
-cd mirotalk
+git clone https://github.com/ashokpachauri/rydeo.git
+cd rydeo
 ```
 
 ## Setup Turn and Ngrok
@@ -100,26 +100,4 @@ npm start
 
 - Open http://localhost:3000 in browser
 - If you want to use a client on another computer/network, make sure you publish your server on an HTTPS connection.
-  You can use a service like [ngrok](https://ngrok.com/) Or deploy it on [heroku](https://www.heroku.com/).
-
-## Credits
-
-Many Thanks to:
-
-- ianramzy (html template)
-- vasanthv (webrtc)
-- Sajad (chat)
-
-from where I taked inspiration for this project. ❤️
-
-## Contributing
-
-- Pull Requests are welcome! :slightly_smiling_face:
-- Please run [prettier](https://prettier.io) on all of your PRs before submitting, this can be done with `prettier --write mirotalk/`
-- For communication we use Gitter Chat which can be found here:
-
-[![Gitter](https://badges.gitter.im/mirotalk/community.svg)](https://gitter.im/mirotalk/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
-
----
-
-![qr](www/images/mirotalk-qr.png)
+  You can use a service like [ngrok](https://ngrok.com/) Or deploy it on [RYdeo](https://rydeo.ropeyou.com/).
